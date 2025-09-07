@@ -32,7 +32,7 @@ html, body{
 }
 
 body{
-    background-color: var(--color-primary-darker);
+   /* background-color: var(--color-primary-darker);*/
     display: flex;
     align-items: center;
     justify-content: center;
